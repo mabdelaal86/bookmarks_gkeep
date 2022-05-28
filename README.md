@@ -1,4 +1,4 @@
-# keep2pocket
+# Bookmarks from Google Keep
 
 Export bookmarks from Google Keep into Pocket/Instapaper
 
